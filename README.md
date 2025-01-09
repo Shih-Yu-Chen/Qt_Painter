@@ -69,5 +69,10 @@
 3. 編譯並運行項目。
 
 ---
-
+##備註
+- client1.rar 解壓縮後為執行檔可以直接使用
+- client_code.zip 解壓縮後為程式碼
+- server1.rar 解壓縮後為執行檔可以直接使用
+- server_code.zip 解壓縮後為程式碼
+- picture.png 測試用圖檔
 
